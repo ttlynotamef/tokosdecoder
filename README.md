@@ -59,7 +59,3 @@ sstv -d signal.wav -o result.png
 - `sstv/` — декодер [colaclanth/sstv](https://github.com/colaclanth/sstv)
 - `sstv_modes_ext.py` — расширение режимов (SC2-180)
 - `requirements.txt` — зависимости (numpy, Pillow, PySoundFile, scipy, sounddevice, PySSTV)
-
-## Лицензия
-
-Используется декодер [colaclanth/sstv](https://github.com/colaclanth/sstv) (GPL-3.0). Исходники TokosDecoder можно использовать по своему усмотрению.
