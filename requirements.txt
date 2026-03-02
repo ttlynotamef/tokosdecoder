@@ -1,0 +1,6 @@
+# TokosDecoder — SSTV decoder/encoder (Python)
+numpy>=1.20
+Pillow>=9.0
+PySoundFile>=0.9
+scipy>=1.7
+PySSTV>=0.5.0
